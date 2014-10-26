@@ -1,0 +1,16 @@
+Download Console2:
+http://sourceforge.net/projects/console/
+
+Download git for windows:
+http://git-scm.com/download/win
+
+Clone repository to Console installation directory
+
+Update registry
+
+move .profile to $USERPROFILE
+
+Profit
+
+Instructions taken from:
+http://outlandish.com/blog/windows-command-line/
